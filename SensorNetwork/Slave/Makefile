@@ -1,0 +1,2 @@
+COMPONENT = SlaveAppC
+include $(MAKERULES)
